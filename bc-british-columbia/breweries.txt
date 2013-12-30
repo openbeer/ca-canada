@@ -2,15 +2,17 @@
 # British Columbia, BC
 
 
-Tree Brewing Co
-  .. 1083 Richter Street // Kelowna | British Columbia // V1Y 2K6
-  .. www.treebeer.com
+[treebrewing]
+  Tree Brewing Co
+  1083 Richter Street // Kelowna | British Columbia // V1Y 2K6
+  www.treebeer.com
 
+[nelsonbrewing]
+  Nelson Brewing Co
+  512 Latimer Street // Nelson | British Columbia // V1L 4T9
+  www.nelsonbrewing.com
 
-Nelson Brewing Co
-  .. 512 Latimer Street // Nelson | British Columbia // V1L 4T9
-  .. www.nelsonbrewing.com
+[centralcity]
+  Central City Brewing
+  Surrey | British Columbia
 
-
-Central City Brewing
-  .. Surrey | British Columbia

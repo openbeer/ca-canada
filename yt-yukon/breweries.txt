@@ -1,7 +1,9 @@
 ###########################
 # Yukon, YT
 
-yukonbrewing, Yukon Brewing Co
-  .. 102-A Copper Road // Whitehorse, Yukon // Y1A 2Z6
-  .. www.yukonbeer.com
+[yukonbrewing]
+  Yukon Brewing Co
+  102-A Copper Road // Whitehorse, Yukon // Y1A 2Z6
+  www.yukonbeer.com
+
 
