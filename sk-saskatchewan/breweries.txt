@@ -1,5 +1,5 @@
 #####################################
-# Saskatchewan, SK
+# Saskatchewan, Sask. - SK
 
 [greatwestern]
   Great Western Brewing Co

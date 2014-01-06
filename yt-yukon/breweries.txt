@@ -1,5 +1,5 @@
 ###########################
-# Yukon, YT
+# Yukon, Y.T.  -  YT
 
 [yukonbrewing]
   Yukon Brewing Co
