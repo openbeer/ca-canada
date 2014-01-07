@@ -1,4 +1,12 @@
 
+## Regions
+
+- [List_of_regions_of_Canada](http://en.wikipedia.org/wiki/List_of_regions_of_Canada)
+
+
+## Quick Notes
+
+
 http://en.wikipedia.org/wiki/Beer_in_Canada
 
 http://www.beercanada.com
