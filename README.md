@@ -1,6 +1,18 @@
-# Beers n Breweries in Canada
+# Beers, Breweries n Brewpubs in Canada
 
-Free open public domain beer n brewery data for Canada / North America
+Free open public domain beer n brewery data for Canada / North America.
+Example:
+
+~~~
+__________________________________
+- Central City Brewing, Surrey
+
+Red Racer ESB
+Red Racer Pale Ale
+Red Racer IPA
+Thor's Hammer Barley Wine
+...
+~~~
 
 
 ## Questions? Comments?

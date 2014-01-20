@@ -1,0 +1,15 @@
+
+breweries:
+- ca-canada!/1--bc-british-columbia--pacific/breweries
+- ca-canada!/2--ab-alberta--prairies/breweries
+- ca-canada!/2--mb-manitoba--prairies/breweries
+- ca-canada!/2--sk-saskatchewan--prairies/breweries
+- ca-canada!/6--yt-yukon--northern/breweries
+
+
+beers:
+- ca-canada!/1--bc-british-columbia--pacific/beers
+- ca-canada!/2--ab-alberta--prairies/beers
+- ca-canada!/2--mb-manitoba--prairies/beers
+- ca-canada!/2--sk-saskatchewan--prairies/beers
+- ca-canada!/6--yt-yukon--northern/beers

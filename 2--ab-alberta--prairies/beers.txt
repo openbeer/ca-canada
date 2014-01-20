@@ -1,5 +1,5 @@
-###############################
-# Alberta, Alta. - AB
+#############################################################
+# Beers in Alberta, Alta. (AB) / Prairies / Western Canada
 
 __________________________________
 - Alley Kat Brewing, Edmonton

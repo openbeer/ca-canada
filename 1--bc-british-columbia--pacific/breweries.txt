@@ -1,5 +1,5 @@
-###############################
-# British Columbia, B.C - BC
+####################################################################
+# Breweries in British Columbia, B.C (BC) - Pacific/Western Canada
 
 
 [treebrewing]
