@@ -36,3 +36,27 @@ Gold	 | Red Betty	 | Central City Brewing Co.
 - Golden or Blonde Ale
 Silver |	Labatt 50	 | Labatt Brewing Co.	
 
+
+ == 2010 ==
+ 
+- Barley Wine-Style Ale
+Silver |	Thor's Hammer  |	Central City Brewing Co.	
+
+- Belgian-Style Dark Strong Ale
+Silver | 	La Grivoise de Noel	  | Micro-Brasserie le Trou du Diable	
+
+- Belgian-Style Pale Strong Ale
+Bronze	 | Fin du Monde | 	Unibroue Inc	
+
+- English-Style India Pale Ale
+Bronze | 	Russell I.P.eh	 | Russell Brewing Co.	
+
+- English-Style Mild Ale
+Bronze | 	Whistler Black Tusk Ale  | 	Whistler Brewing Co.
+
+- Fruit or Vegetable Beer
+Bronze	| Ephémère Apple | 	Unibroue Inc	
+
+- Scottish-Style Ale
+Bronze	| Russell Wee Angry Scotch Ale | 	Russell Brewing Co.	
+
